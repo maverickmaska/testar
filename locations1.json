@@ -1,0 +1,7 @@
+{"d":[
+    {"__type":"VEMaps.PinData","Title":"1","Description":"Push Pin 1.","Latitude":41.8284867713553,"Longitude":-89.3934742184048},
+    {"__type":"VEMaps.PinData","Title":"2","Description":"Push Pin 2.","Latitude":41.5804186112039,"Longitude":-87.822813028308},
+    {"__type":"VEMaps.PinData","Title":"3","Description":"Push Pin 3.","Latitude":41.2743105224413,"Longitude":-88.6421180936698},
+    {"__type":"VEMaps.PinData","Title":"4","Description":"Push Pin 4.","Latitude":41.3402801414583,"Longitude":-87.2673207383479},
+    {"__type":"VEMaps.PinData","Title":"5","Description":"Push Pin 5.","Latitude":41.2428051839547,"Longitude":-86.1792543448348}
+]}
