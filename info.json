@@ -1,0 +1,8 @@
+{"info":
+	[
+		{"locations": [{"latitude":18.535015},{"longitude":73.810844}], "Infobox": [{"title": "CDAC New Building"},{"description": "Pune"},{"visible": false},{"width": 800},{"height": 300},{"showCloseButton": true},{"zIndex": 0},{"offset": "new Microsoft.Maps.Point(10, 0)"},{"showPointer": true},{"htmlContent": "< img src = C: /Users/amitraj / Pictures / Logitech Webcam / Picture 8 _re.jpg  < /img>"}]
+		},
+		{"locations": [{"latitude":18.548853}, {"longitude":73.824878}], "Infobox": [{"title": "CDAC Main Building"},{"description": "Pune"},{"visible": false},{"width": 800},{"height": 300},{"showCloseButton": true},{"zIndex": 0},{"offset": "new Microsoft.Maps.Point(10, 0)"},{"showPointer": true},{"htmlContent": "< img src = C: /Users/amitraj / Pictures / Logitech Webcam / Picture 8 _re.jpg  < /img>"}]
+		}
+	]
+}
